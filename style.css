@@ -30,3 +30,9 @@ a:visited {
   background-color: transparent;
   text-decoration: none;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
