@@ -1,0 +1,32 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #190707
+}
+
+h3{
+font-size: 22px;
+color: #F19D39
+}
+
+p{
+font-size: 16px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+}
+
+body {
+background-color: #FAFAFA;
+}
+
+a:link {
+  color: #F19D39;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #F19D39;
+  background-color: transparent;
+  text-decoration: none;
+}
